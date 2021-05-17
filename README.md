@@ -7,6 +7,7 @@ Company XYZ owns a supermarket chain across, with its major branch located in th
 ## Project Steps
 
 In the course of the analysis the following steps were taken before and during the analysis; 
+
 1). First, i looked at the description of each feature in other to understand the concept of the supermarket and pinpoint probably areas of interest of the enterprise towards its growth and deployment of effiecient business management
 
 2). Secondly i took a short statistical summary of the data that was gathered from the three main branches and drew a brief insight of it.
