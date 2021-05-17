@@ -1,10 +1,10 @@
 # USTACKY PANDAS PROJECT
 
-# DATA ANALYSIS ON  XYZ SUPERMARKET
+## DATA ANALYSIS ON  XYZ SUPERMARKET
 
 Company XYZ owns a supermarket chain across, with its major branch located in three(3) cities Abuja, Lagos and Portharcourt with the followong product lines; electrical accessories, Electronic accessories, Home and lifestyle, Food and beverages, Sports and travel, Health and beauty, Fashion accessories. Descriptive Data Analysis was performed on the gathered data from all three branches and insights are generated to help understand trends and determine growth. 
 
-# Project Steps
+## Project Steps
 
 In the course of the analysis the following steps were taken before and during the analysis; 
 1). First, i looked at the description of each feature in other to understand the concept of the supermarket and pinpoint probably areas of interest of the enterprise towards its growth and deployment of effiecient business management
@@ -19,7 +19,7 @@ In the course of the analysis the following steps were taken before and during t
 	c). Distribution
 
 
-# Insights
+## Insights
 
 1). The data was properly collate as there were no missing values or outliers
 2). The approximate average unit price and quantity are #20,000 and 6 units respectively making our total sales/revenue to be around #120,000 without incurring tax.
@@ -50,7 +50,7 @@ Knowing that the average cost of goods sold is apporximately #110,700 and the gr
 24). This indicates that there is high variance in the correlation between the cost of goods sold and the total amount generated
 25). Dominant female activity in branch A and B while the men seem to be slightly higher than the females at Branch C
 
-# Future Work
+## Future Work
 
 In other to make the work look more robust tasks like the following should have been carried out:
 a). Deeper Visualisation
@@ -59,7 +59,7 @@ c). Addition more features/columns
 d). Addition of more financaial columns for a much more economic descriptive analytics
 
 
-# Standout Section
+## Standout Section
 
 I did a groupby categorization of the areas with the most rating
 I performed a distribution visualisation of sales by gender to see the volume of the total amount contributed by respective gender. It was discovered that  
