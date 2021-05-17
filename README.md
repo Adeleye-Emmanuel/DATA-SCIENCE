@@ -64,8 +64,3 @@ d). Addition of more financaial columns for a much more economic descriptive ana
 I did a groupby categorization of the areas with the most rating
 I performed a distribution visualisation of sales by gender to see the volume of the total amount contributed by respective gender. It was discovered that  
 In the latter parts of the analysis i compared other features to an important column 'RATING' which was not given in the project requirement. I thought it to be crucial to know the reaction of the branches to proucts and services provided, rating based on product line.
-
-# Executive Summary.
-
-The summary of this analysis has proven to show that the supermarket across the three (3) branches and cities is operative on the same relative threshold with not very high rating from the customers though not bad as there is a fine proportion of contribution of both male and female to the market growth. So in just a matter of time and with sales,marketing and service developement the XYZ restaurant would be better than it is.
-
